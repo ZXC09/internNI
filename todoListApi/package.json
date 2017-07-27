@@ -1,0 +1,17 @@
+{
+  "name": "todoListApi",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Ali ..",
+  "license": "MIT",
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "devDependencies": {
+    "nodemon": "^1.11.0"
+  },
+  "dependencies": {
+    "express": "^4.15.3",
+    "mongoose": "^4.11.4"
+  }
+}
